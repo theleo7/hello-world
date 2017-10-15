@@ -1,2 +1,3 @@
 # hello-world
-Sample Hello World program
+This is a sample java console application for classic Hello World program.
+
